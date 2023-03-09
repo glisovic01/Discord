@@ -1,0 +1,28 @@
+/**
+* @name DaXion
+* @version 2.0
+* @description When default discord just isn't dark enough.
+* @author DaVinci
+* @invite PZdnCVD
+* @source https://github.com/xcruxiex/themes
+*/
+
+/* Based on Noctural theme by Spectra */
+
+@import url("https://xcruxiex.github.io/themes/themes-cores/nocturnal.css");
+@import url("https://xcruxiex.github.io/themes/core/badges.css");
+@import url("https://xcruxiex.github.io/themes/core/custom-font.css");
+
+:root {
+  --backgroundColor01: #000000;
+  --backgroundColor02: #000000;
+  --mainColor: #dbdbdb;
+  --gradientColor01: #ffffff;
+  --gradientColor02: #888888;
+
+  /* Better Hljs */
+  --backgroundCode: rgb(30, 39, 49);
+  --backgroundName: rgba(0, 0, 0, .2);
+
+  --customFont: 'gg sans', sans-serif;
+}
